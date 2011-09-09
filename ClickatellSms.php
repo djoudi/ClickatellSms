@@ -4,7 +4,7 @@
  * Simple Application Component that allows you to send SMSes using Clickatell Gateway easily.
  * Yii::app()->sms()->send(array('to'=>'+40746xxxxxx','message'=>'hello world!');
  * 
- * @link http://google.com
+ * @link https://github.com/vladvelici/ClickatellSms
  * @author Vlad Velici
  * @version 0.1
  * @uses CURL
